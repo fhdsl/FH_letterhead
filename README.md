@@ -1,6 +1,6 @@
 This is a LaTeX version of the Fred Hutch letterhead for personal correspondence.
 
-**How to use this template***
+**How to use this template**
 
 1. Clone the repository.
 1. Edit the `hutch_letter_template.tex` file in an editor such as [TeXShop](https://sourceforge.net/projects/texshop.mirror/). Don't mess with `CL.cls` unless you know what you're doing.
